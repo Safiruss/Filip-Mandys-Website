@@ -37,23 +37,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/F2.jpg
-
-.avatar {
-  // <<< inline
-  width: 14rem;
-  height: 14rem;
-  border-radius: 100%;
-  overflow: hidden;
-  display: inline-block;
-  img { width: 100%; }
-  // >>>
-
-  // <<< link
-  position: relative;
-  z-index: 1;
-  // >>>
-}
+logo: /assets/img/F2.jpg              
 
 favicon: /assets/icons/favicon1.ico
 apple_touch_icon: /assets/icons/icon1-192x192.png
