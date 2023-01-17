@@ -1,3 +1,4 @@
+cd C:/Users/filma/OneDrive/Dokumenty/Web
 bundle install
 bundle exec jekyll serve
 JEKYLL_ENV=production bundle exec jekyll build
