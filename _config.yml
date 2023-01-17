@@ -25,22 +25,22 @@ title:                 Filip Mandys
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Filip Mandys is an economist working at the EIF in Luxembourg and RILSA in Prague.
+  Personal Website of Dr. Filip Mandys -  Senior Researcher at the Research Institute for Labour and Social Affairs (RILSA)
 
 
 # A shorter description for the sidebar.
 tagline:               Senior Researcher - Research Institute for Labour and Social Affairs (RILSA)
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Mandys, Filip, Research, Economics]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo: /assets/img/F2.jpg              
+logo:                  /assets/img/F2.jpg              
 
 favicon: /assets/icons/favicon1.ico
-apple_touch_icon: /assets/icons/icon1-192x192.png
+apple_touch_icon:      /assets/icons/icon1-192x192.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -79,7 +79,7 @@ legal:
 copyright:            Filip Mandys © 2023
 
 # Format of the permalinks
-permalink:             /blog/:categories/:year-:month-:day-:title/
+permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 # paginate:              10
@@ -256,7 +256,7 @@ hydejack:
   no_breadcrumbs:      false
 
   # Set to `true` when building with the `--lsi` option
-  use_lsi:             true
+  use_lsi:             false
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
@@ -403,34 +403,3 @@ compress_html:
 
 sass:
   style:               compressed
-
-
-# Jekyll Compose Defaults
-# ---------------------------------------------------------------------------------------
-
-jekyll_compose:
-  default_front_matter:
-    drafts:
-      layout: post
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-    posts:
-      layout: post
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-    projects:
-      layout: project
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-      links:
-        - title: Project Link
-          url: https://example.com
