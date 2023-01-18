@@ -59,7 +59,7 @@ Data from two EIF surveys is used to analyse and compare the underlying motives 
 </details>
 
 **Levelized Cost of Solar Photovoltaic Electricity until 2035: Evidence from the United Kingdom** <br>
-F. Mandys, M. Chitnis, and R. Silva | under review in *Patterns*
+F. Mandys, M. Chitnis, and R. Silva | revise and resubmit in *Patterns*
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Finding and analysing historical and future costing dynamics of solar photovoltaic panels until 2035, and performing a sensitivity analysis to methods and assumptions.
 </details>
