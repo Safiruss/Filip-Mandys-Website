@@ -41,7 +41,7 @@ F. Mandys | *Renewable and Sustainable Energy Reviews*
 ## Working Papers
 
 **The Transforming Automobile Industry: Demand for Conventional and Clean Automobiles** <br>
-F. Mandys and S. Taneja | targeted for *Journal of the European Economic Association* 
+F. Mandys and S. Taneja | submitted to *Journal of the European Economic Association* 
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Quantifying the demand dynamics for alternative fuel vehicles versus conventional vehicles, while accounting for consumer heterogeneity, price endogeneity, and realistic substitution patterns. A large vehicle dataset is constructed and a discrete-choice random-coefficient model (BLP) is applied.
 </details>
