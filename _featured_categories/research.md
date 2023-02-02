@@ -19,7 +19,7 @@ S. Taneja and F. Mandys | *Renewable and Sustainable Energy Reviews*
 H. Kraemer-Eis, J. Block, A. Botsari, W. Diegel, F. Lang, D. Legnani, S. Lorenzen, F. Mandys, and I. Tzoumas | *EIF*
 
 [**Household-specific Energy Expenditure and Inflation in the Czech Republic**](https://www.rilsa.cz/2023/01/05/novy-policy-paper-rilsa-household-specific-energy-expenditure-and-inflation-in-the-czech-republic-energeticke-vydaje-domacnosti-a-inflace-v-ceske-republice/) &nbsp; (2022) <br>
-F. Mandys | *PolicyPapers RILSA*
+F. Mandys | *Policy Papers RILSA*
 
 [**EIF Venture Capital Survey 2022: Market sentiment and impact of the current geopolitical & macroeconomic environment**](https://www.econstor.eu/handle/10419/265477) &nbsp; (2022) <br>
 H. Kraemer-Eis, J. Block, A. Botsari, W. Diegel, F. Lang, D. Legnani, S. Lorenzen, F. Mandys, and I. Tzoumas | *EconStor*
