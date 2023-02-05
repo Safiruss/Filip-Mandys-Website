@@ -2,7 +2,7 @@
 layout: welcome
 title: Home
 cover: true
-sitemap: false
+sitemap: true
 ---
 
 ## Short Biography
