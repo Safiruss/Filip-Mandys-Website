@@ -47,7 +47,7 @@ Quantifying the demand dynamics for alternative fuel vehicles versus conventiona
 </details>
 
 **The Search for an Affordable Clean Car: Pricing of UK Conventional and Clean Automobiles** <br>
-F. Mandys | under review in *Transportation: Part D*
+F. Mandys | revise and resubmit in *Transportation: Part D*
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Discovering key automobile characteristics that influence UK market prices of conventional and alternative fuel vehicles, and constructing quality constant hedonic price indices. A large, novel, and extensive dataset of vehicle sales, prices, and characteristics is manually constructed.
 </details>
@@ -59,7 +59,7 @@ Data from two EIF surveys is used to analyse and compare the underlying motives 
 </details>
 
 **Levelized Cost of Solar Photovoltaic Electricity until 2035: Evidence from the United Kingdom** <br>
-F. Mandys, M. Chitnis, and R. Silva | revise and resubmit in *Patterns*
+F. Mandys, M. Chitnis, and R. Silva | revised and resubmitted to *Patterns*
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Finding and analysing historical and future costing dynamics of solar photovoltaic panels until 2035, and performing a sensitivity analysis to methods and assumptions.
 </details>
