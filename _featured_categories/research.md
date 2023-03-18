@@ -41,13 +41,13 @@ F. Mandys | *Renewable and Sustainable Energy Reviews*
 ## Working Papers
 
 **The Transforming Automobile Industry: Demand for Conventional and Clean Automobiles** <br>
-F. Mandys and S. Taneja | submitted to *Journal of the European Economic Association* 
+F. Mandys and S. Taneja | under review in the *Journal of the European Economic Association* 
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Quantifying the demand dynamics for alternative fuel vehicles versus conventional vehicles, while accounting for consumer heterogeneity, price endogeneity, and realistic substitution patterns. A large vehicle dataset is constructed and a discrete-choice random-coefficient model (BLP) is applied.
 </details>
 
 **The Search for an Affordable Clean Car: Pricing of UK Conventional and Clean Automobiles** <br>
-F. Mandys | revise and resubmit in *Transportation: Part D*
+F. Mandys | revised and resubmitted to *Transportation: Part D*
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Discovering key automobile characteristics that influence UK market prices of conventional and alternative fuel vehicles, and constructing quality constant hedonic price indices. A large, novel, and extensive dataset of vehicle sales, prices, and characteristics is manually constructed.
 </details>
@@ -76,8 +76,8 @@ F. Mandys and A. Botsari | targeted for *Economics Letters*
 Research into the key drivers of gender diversity in European small and medium-sized enterprises. Various CEO and firm characteristics are analysed and compared between private equity and venture capital investors.
 </details>
 
-**Economic Outlook for the Czech Republic** <br>
-D. Hovsepyan, B. Kurylo, R. Maialeh, F. Mandys, J. Špeciánová, and Ü. Unal
+**Socio-economic Outlook for the Czech Republic** <br>
+D. Hovsepyan, B. Kurylo, R. Maialeh, F. Mandys, J. Špeciánová, and Ü. Unal | submitted for publication as a book
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Extensive overview of the Czech labour market and its future outlook, focusing on the current macroeconomic situation, impact of inflation, energy crisis, remote working, and fiscal policies.
 </details>
