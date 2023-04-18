@@ -9,6 +9,12 @@ no_groups: true
 
 ## Publications
 
+**Search for an Affordable Clean Car: Pricing of Conventional and Clean Automobiles** (*forthcoming*) &nbsp; (2023) <br>
+F. Mandys | *Transportation Research Part D: Transport and Environment*
+
+**Levelized Cost Estimates of Solar Photovoltaic Electricity in the United Kingdom Until 2035** (*forthcoming*) &nbsp; (2023) <br>
+F. Mandys, M. Chitnis, and S. R. P. Silva | *Patterns*
+
 [**Drivers of UK Energy Expenditure: Promoting Efficiency and Curbing Emissions**](https://www.sciencedirect.com/science/article/abs/pii/S0301421522002671?via%3Dihub) &nbsp; (2022) <br>
 S. Taneja and F. Mandys | *Energy Policy*
 
@@ -41,27 +47,15 @@ F. Mandys | *Renewable and Sustainable Energy Reviews*
 ## Working Papers
 
 **The Transforming Automobile Industry: Demand for Conventional and Clean Automobiles** <br>
-F. Mandys and S. Taneja | under review in the *Journal of the European Economic Association* 
+F. Mandys and S. Taneja | targeted for *American Economic Journal: Economic Policy* 
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Quantifying the demand dynamics for alternative fuel vehicles versus conventional vehicles, while accounting for consumer heterogeneity, price endogeneity, and realistic substitution patterns. A large vehicle dataset is constructed and a discrete-choice random-coefficient model (BLP) is applied.
-</details>
-
-**The Search for an Affordable Clean Car: Pricing of UK Conventional and Clean Automobiles** <br>
-F. Mandys | revised and resubmitted to *Transportation: Part D*
-<details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
-Discovering key automobile characteristics that influence UK market prices of conventional and alternative fuel vehicles, and constructing quality constant hedonic price indices. A large, novel, and extensive dataset of vehicle sales, prices, and characteristics is manually constructed.
 </details>
 
 **Climate Issues in Portfolio Investment Decisions: A Comparison of Private Equity and Venture Capital** <br>
 L. Benz, J. Block, H. Kraemer-Eis, A. Botsari, F. Lang, and F. Mandys | under review in *Venture Capital*
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Data from two EIF surveys is used to analyse and compare the underlying motives for private equity and venture capital firms to consider climate factors in the portfolio investment decisions.
-</details>
-
-**Levelized Cost of Solar Photovoltaic Electricity until 2035: Evidence from the United Kingdom** <br>
-F. Mandys, M. Chitnis, and R. Silva | revised and resubmitted to *Patterns*
-<details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
-Finding and analysing historical and future costing dynamics of solar photovoltaic panels until 2035, and performing a sensitivity analysis to methods and assumptions.
 </details>
 
 **Drivers of Solar Photovoltaic Panel Installation in the United Kingdom** <br>
