@@ -9,37 +9,37 @@ no_groups: true
 
 ## Publications
 
-**Search for an Affordable Clean Car: Pricing of Conventional and Clean Automobiles** (*forthcoming*) &nbsp; (2023) <br>
+[**Search for an Affordable Clean Car: Pricing of Conventional and Clean Automobiles**](https://doi.org/10.1016/j.trd.2023.103738) &nbsp; (2023) <br>
 F. Mandys | *Transportation Research Part D: Transport and Environment*
 
-**Levelized Cost Estimates of Solar Photovoltaic Electricity in the United Kingdom Until 2035** (*forthcoming*) &nbsp; (2023) <br>
+[**Levelized Cost Estimates of Solar Photovoltaic Electricity in the United Kingdom Until 2035**](https://doi.org/10.1016/j.patter.2023.100735) &nbsp; (2023) <br>
 F. Mandys, M. Chitnis, and S. R. P. Silva | *Patterns*
 
-[**Drivers of UK Energy Expenditure: Promoting Efficiency and Curbing Emissions**](https://www.sciencedirect.com/science/article/abs/pii/S0301421522002671?via%3Dihub) &nbsp; (2022) <br>
+[**Drivers of UK Energy Expenditure: Promoting Efficiency and Curbing Emissions**](https://doi.org/10.1016/j.enpol.2022.113042) &nbsp; (2022) <br>
 S. Taneja and F. Mandys | *Energy Policy*
 
-[**The Effect of Disaggregated Information and Communication Technologies on Industrial Energy Demand**](https://www.sciencedirect.com/science/article/abs/pii/S136403212200421X?via%3Dihub) &nbsp; (2022) <br>
+[**The Effect of Disaggregated Information and Communication Technologies on Industrial Energy Demand**](https://doi.org/10.1016/j.rser.2022.112518) &nbsp; (2022) <br>
 S. Taneja and F. Mandys | *Renewable and Sustainable Energy Reviews*
 
-[**EIF Private Equity Mid-Market Survey 2022: Market sentiment and impact of the current geopolitical & macroeconomic environment**](https://www.eif.org/news_centre/publications/EIF_Working_Paper_2022_85.htm) &nbsp; (2022) <br>
+[**EIF Private Equity Mid-Market Survey 2022: Market sentiment and impact of the current geopolitical & macroeconomic environment**](http://hdl.handle.net/10419/249252) &nbsp; (2022) <br>
 H. Kraemer-Eis, J. Block, A. Botsari, W. Diegel, F. Lang, D. Legnani, S. Lorenzen, F. Mandys, and I. Tzoumas | *EIF*
 
 [**Household-specific Energy Expenditure and Inflation in the Czech Republic**](https://www.rilsa.cz/2023/01/05/novy-policy-paper-rilsa-household-specific-energy-expenditure-and-inflation-in-the-czech-republic-energeticke-vydaje-domacnosti-a-inflace-v-ceske-republice/) &nbsp; (2022) <br>
 F. Mandys | *Policy Papers RILSA*
 
-[**EIF Venture Capital Survey 2022: Market sentiment and impact of the current geopolitical & macroeconomic environment**](https://www.econstor.eu/handle/10419/265477) &nbsp; (2022) <br>
+[**EIF Venture Capital Survey 2022: Market sentiment and impact of the current geopolitical & macroeconomic environment**](http://hdl.handle.net/10419/265477) &nbsp; (2022) <br>
 H. Kraemer-Eis, J. Block, A. Botsari, W. Diegel, F. Lang, D. Legnani, S. Lorenzen, F. Mandys, and I. Tzoumas | *EconStor*
 
-[**Household-specific Energy Inflation in the Czech Republic**](https://www.rilsa.cz/download/policy-brief-vupsv-v-v-i-c-9-2022-2/?wpdmdl=15840&refresh=6367fb440807a1667758916) &nbsp; (2022) <br>
+[**Household-specific Energy Inflation in the Czech Republic**](https://www.rilsa.cz/2022/09/denik-aktualne-cz-o-dopadech-energeticke-inflace-s-exkluzivnimi-informacemi-z-nove-analyzy-rilsa-nyni-zverejnujeme-policy-brief/) &nbsp; (2022) <br>
 F. Mandys | *Policy Briefs RILSA*
 
-[**EIF Business Angels Survey 2021/22: Market sentiment**](https://www.econstor.eu/handle/10419/263269) &nbsp; (2022) <br>
+[**EIF Business Angels Survey 2021/22: Market sentiment**](http://hdl.handle.net/10419/263269) &nbsp; (2022) <br>
 A. Botsari, S. Kupres, F. Lang, D. Legnani, and F. Mandys | *EconStor*
 
-[**EIF Private Equity Mid-Market Survey: Fund managers’ perception of EIF’s value added**](https://www.econstor.eu/handle/10419/249252) &nbsp; (2021) <br>
+[**EIF Private Equity Mid-Market Survey: Fund managers’ perception of EIF’s value added**](http://hdl.handle.net/10419/249252) &nbsp; (2021) <br>
 H. Kraemer-Eis, A. Botsari, F. Lang, and F. Mandys | *EconStor*
 
-[**Electric Vehicles and Consumer Choices**](https://www.sciencedirect.com/science/article/abs/pii/S1364032121001684?via%3Dihub) &nbsp; (2021) <br>
+[**Electric Vehicles and Consumer Choices**](https://doi.org/10.1016/j.rser.2021.110874) &nbsp; (2021) <br>
 F. Mandys | *Renewable and Sustainable Energy Reviews*
 
 
