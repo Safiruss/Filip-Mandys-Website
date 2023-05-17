@@ -5,7 +5,7 @@ categories: [media]
 no_groups: true
 ---
 
-**May 2023**, &nbsp; *Surrey Press* <br> 
+**May 2023**, &nbsp; *University of Surrey Press* <br> 
 [Households investing in solar panels could reach break-even point sooner than
 expected](https://www.surrey.ac.uk/news/households-investing-solar-panels-could-reach-break-even-point-sooner-expected)
 
