@@ -5,6 +5,10 @@ categories: [media]
 no_groups: true
 ---
 
+**May 2023**, &nbsp; *Surrey Press* <br> 
+[Households investing in solar panels could reach break-even point sooner than
+expected](https://www.surrey.ac.uk/news/households-investing-solar-panels-could-reach-break-even-point-sooner-expected)
+
 **January 2023**, &nbsp; *Novinky.cz (Seznam.cz) (in Czech)* <br> 
 [Drahé energie připravily domácnosti o desetitisíce korun](https://www.novinky.cz/clanek/ekonomika-drahe-energie-pripravily-domacnosti-o-desetitisice-korun-40420339)
 
