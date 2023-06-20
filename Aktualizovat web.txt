@@ -7,3 +7,14 @@ git add .
 git commit -m "my changes" 
    git remote add origin https://github.com/Safiruss/Filip-Mandys-Website.git
 git push -u origin master
+
+
+
+
+"Solution if time-out happens with gem install bundler"
+  1. Go to Control Panel > Network and Internet > Network connections
+  2. Select the network connection you're currently using
+  3. Right click on it and choose Properties
+  4. Remove check mark for Internet Protocol version 6 (TCP/IPv6)
+  5. Click OK
+  6. Run your "gem install bundler" command again
