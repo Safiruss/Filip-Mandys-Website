@@ -5,6 +5,9 @@ categories: [media]
 no_groups: true
 ---
 
+**June 2023**, &nbsp; *Czech News Agency (in Czech)* <br> 
+[Analýza: Průměrnou domácnost připraví vládní balíček ročně o 7614 Kč](https://www.ceskenoviny.cz/zpravy/analyza-prumernou-domacnost-pripravi-vladni-balicek-rocne-o-7614-kc/2379397)
+
 **May 2023**, &nbsp; *University of Surrey Press* <br> 
 [Households investing in solar panels could reach break-even point sooner than
 expected](https://www.surrey.ac.uk/news/households-investing-solar-panels-could-reach-break-even-point-sooner-expected)
