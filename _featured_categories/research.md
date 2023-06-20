@@ -10,7 +10,7 @@ no_groups: true
 ## Publications
 
 [**Search for an affordable clean car: Pricing of conventional and clean automobiles**](https://doi.org/10.1016/j.trd.2023.103738) &nbsp; (2023) <br>
-<u>F. Mandys</u> | *Transportation Research Part D: Transport and Environment*
+<span class="underline">F. Mandys</span> | *Transportation Research Part D: Transport and Environment*
 
 [**Response to “Low cost, uncertain value: Why cheap PV may still not become UK’s main power source”**](https://doi.org/10.1016/j.patter.2023.100753) &nbsp; (2023) <br>
 F. Mandys, M. Chitnis, and S. R. P. Silva | *Patterns*
@@ -19,7 +19,7 @@ F. Mandys, M. Chitnis, and S. R. P. Silva | *Patterns*
 F. Mandys, M. Chitnis, and S. R. P. Silva | *Patterns*
 
 [**Impact of selected government measures on Czech households**](https://www.rilsa.cz/2023/06/vyhodnoceni-dopadu-konsolidacniho-balicku/) &nbsp; (2023) <br>
-V. Beran, F. Červenka, S. Höhne, R. Jahoda, R. Kyzlinková, R. Maialeh, F. Mandys, A. Marková, J. Paloncyová, T. Sirovátka, and J. Špeciánová | *RILSA*
+V. Beran, F. Červenka, S. Höhne, R. Jahoda, R. Kyzlinková, R. Maialeh, <span class="underline">F. Mandys</span>, A. Marková, J. Paloncyová, T. Sirovátka, and J. Špeciánová | *RILSA*
 
 [**Drivers of UK energy expenditure: Promoting efficiency and curbing emissions**](https://doi.org/10.1016/j.enpol.2022.113042) &nbsp; (2022) <br>
 S. Taneja and F. Mandys | *Energy Policy*
