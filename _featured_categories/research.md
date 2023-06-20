@@ -10,7 +10,7 @@ no_groups: true
 ## Publications
 
 [**Search for an affordable clean car: Pricing of conventional and clean automobiles**](https://doi.org/10.1016/j.trd.2023.103738) &nbsp; (2023) <br>
-<u>F. Mandys<u> | *Transportation Research Part D: Transport and Environment*
+<u>F. Mandys</u> | *Transportation Research Part D: Transport and Environment*
 
 [**Response to “Low cost, uncertain value: Why cheap PV may still not become UK’s main power source”**](https://doi.org/10.1016/j.patter.2023.100753) &nbsp; (2023) <br>
 F. Mandys, M. Chitnis, and S. R. P. Silva | *Patterns*
