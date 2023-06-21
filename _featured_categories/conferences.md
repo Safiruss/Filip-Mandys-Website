@@ -5,7 +5,7 @@ categories: [conferences]
 no_groups: true
 ---
 
-[![](/assets/img/Euroframe.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.euroframe.org/conferences.html) **19<sup>th</sup> Euroframe Conference on Economic Policy Issues in Europe**, &nbsp; *Paris* <br> *Presentation: Inflation and its impact on different social groups: The case of the Czech Republic.* <br> 9<sup>th</sup> June 2023 <br> <br>
+[![](/assets/img/Euroframe.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.euroframe.org/homepage.html) **19<sup>th</sup> Euroframe Conference on Economic Policy Issues in Europe**, &nbsp; *Paris* <br> *Presentation: Inflation and its impact on different social groups: The case of the Czech Republic ([Link](https://www.euroframe.org/files/user_upload/euroframe/docs/2023/Conference/Session%20B1/EUROFRAME_Robin%20Maialeh_RILSA.pdf))* <br> 9<sup>th</sup> June 2023 <br> <br>
 
 [![](/assets/img/EIF.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.eif.org/) **European Investment Fund Conference with Nordic/Baltic VC Associations**, &nbsp; *Luxembourg* <br> *Presentation: VC market sentiment and impact of the current geopolitical environment* <br> 14<sup>th</sup> November 2022 <br> <br>
 
