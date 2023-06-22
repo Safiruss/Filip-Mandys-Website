@@ -19,7 +19,7 @@ no_groups: true
 <u>F. Mandys</u>, M. Chitnis, and S. R. P. Silva | *Patterns*
 
 [**Impact of selected government measures on Czech households**](https://www.rilsa.cz/2023/06/vyhodnoceni-dopadu-konsolidacniho-balicku/) &nbsp; (2023) <br>
-V. Beran, F. Červenka, S. Höhne, R. Jahoda, R. Kyzlinková, R. Maialeh, <u>F. Mandys</u>, A. Marková, J. Paloncyová, T. Sirovátka, and J. Špeciánová | *RILSA*
+V. Beran, F. Červenka, S. Höhne, R. Jahoda, R. Kyzlinková, R. Maialeh, <u>F. Mandys</u>, J. Paloncyová, and J. Špeciánová | *RILSA*
 
 [**Drivers of UK energy expenditure: Promoting efficiency and curbing emissions**](https://doi.org/10.1016/j.enpol.2022.113042) &nbsp; (2022) <br>
 S. Taneja and <u>F. Mandys</u> | *Energy Policy*
