@@ -54,8 +54,10 @@ author:
 menu:
   - title:             EXPERIENCE
     url:               /experience/
-  - title:             RESEARCH
-    url:               /research/
+  - title:             PUBLISHED RESEARCH
+    url:               /publications/
+  - title:             WORKING PAPERS
+    url:               /workpapers/
   - title:             CONFERENCES
     url:               /conferences/
   - title:             MEDIA
