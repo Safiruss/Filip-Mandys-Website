@@ -1,11 +1,11 @@
 ---
 layout: list
-title: Published Research
+title: Publications
 categories: [publications]
 no_groups: true
 ---
 
-# Published Research
+# Publications
 
 ## Books
 
@@ -32,7 +32,7 @@ S. Taneja and <u>F. Mandys</u> | *Energy Policy*
 S. Taneja and <u>F. Mandys</u> | *Renewable and Sustainable Energy Reviews*
 
 [**EIF private equity mid-market survey 2022: Market sentiment and impact of the current geopolitical & macroeconomic environment**](http://hdl.handle.net/10419/273572) &nbsp; (2022) <br>
-H. Kraemer-Eis, J. Block, A. Botsari, W. Diegel, F. Lang, D. Legnani, S. Lorenzen, <u>F. Mandys</u>, and I. Tzoumas | *EIF*
+H. Kraemer-Eis, J. Block, A. Botsari, W. Diegel, F. Lang, D. Legnani, S. Lorenzen, <u>F. Mandys</u>, and I. Tzoumas | *EconStor*
 
 [**EIF venture capital survey 2022: Market sentiment and impact of the current geopolitical & macroeconomic environment**](http://hdl.handle.net/10419/265477) &nbsp; (2022) <br>
 H. Kraemer-Eis, J. Block, A. Botsari, W. Diegel, F. Lang, D. Legnani, S. Lorenzen, <u>F. Mandys</u>, and I. Tzoumas | *EconStor*
@@ -54,7 +54,7 @@ H. Kraemer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *EconStor*
 V. Beran, F. Červenka, R. Jahoda, R. Kyzlinková, R. Maialeh, <u>F. Mandys</u>, J. Paloncyová, and J. Špeciánová | *RILSA*
 
 [**Household-specific energy expenditure and inflation in the Czech Republic**](https://www.rilsa.cz/2023/01/05/novy-policy-paper-rilsa-household-specific-energy-expenditure-and-inflation-in-the-czech-republic-energeticke-vydaje-domacnosti-a-inflace-v-ceske-republice/) &nbsp; (2022) <br>
-<u>F. Mandys</u> | *Policy Papers RILSA*
+<u>F. Mandys</u> | *RILSA*
 
 [**Household-specific energy inflation in the Czech Republic**](https://www.rilsa.cz/2022/09/denik-aktualne-cz-o-dopadech-energeticke-inflace-s-exkluzivnimi-informacemi-z-nove-analyzy-rilsa-nyni-zverejnujeme-policy-brief/) &nbsp; (2022) <br>
-<u>F. Mandys</u> | *Policy Briefs RILSA*
+<u>F. Mandys</u> | *RILSA*

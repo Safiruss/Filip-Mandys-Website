@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Working Papers
-categories: [workpapers]
+categories: [workingpapers]
 no_groups: true
 ---
 
