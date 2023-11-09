@@ -11,12 +11,11 @@ I am currently working as a *Senior Researcher* at the [Research Institute for L
 I hold a PhD in Economics from the [University of Surrey](https://www.surrey.ac.uk/school-economics){:.heading.flip-title} and my thesis focused on the demand and pricing aspects of clean and conventional automobiles in the United Kingdom. I received my MSc in International Economics, Finance, and Development, and BSc in Economics and Finance from the University of Surrey.
 
 ### Research interests:
-- Energy economics
+- Energy & environmental economics
 - Labour economics
-- Environmental economics
 - Applied econometrics
+- Microeconomics
 - Corporate finance
-- Alternative-fuel transportation
 
 
 [documentation]: docs/README.md
