@@ -25,11 +25,11 @@ title:                 Filip Mandys
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Website of Dr. Filip Mandys -  Senior Researcher at the Research Institute for Labour and Social Affairs (RILSA)
+  Personal Website of Dr. Filip Mandys - Research Associate at the University of Cambridge
 
 
 # A shorter description for the sidebar.
-tagline:               Senior Researcher - Research Institute for Labour and Social Affairs (RILSA)
+tagline:               Research Associate <br> University of Cambridge <br> Senior Researcher - Research Institute for Labour and Social Affairs (RILSA)
 
 # A list of keywords for your blog
 keywords:              [Mandys, Filip, Research, Economics]

@@ -5,6 +5,8 @@ categories: [experience]
 no_groups: true
 ---
 
+[![](/assets/img/Cambridge.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettinstitute.cam.ac.uk/) **Research Associate** <br> *University of Cambridge* <br> 2024 - Present <br> <br>
+
 [![](/assets/img/RILSA.png){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.rilsa.cz/en/) **Senior Researcher** <br> *Research Institute for Labour and Social Affairs (RILSA)* <br> 2022 - Present <br> <br>
 
 [![](/assets/img/EIF.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.eif.org/index.htm) **Research Consultant** <br> *European Investment Fund (EIF)* <br> 2021 - 2023 <br> <br>
