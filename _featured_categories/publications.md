@@ -51,7 +51,7 @@ H. Kraemer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *EconStor*
 ## Policy Papers
 
 [**Impact of selected government measures on Czech households**](https://www.rilsa.cz/2023/06/vyhodnoceni-dopadu-konsolidacniho-balicku/) &nbsp; (2023) <br>
-V. Beran, F. Červenka, R. Jahoda, R. Kyzlinková, R. Maialeh, <u>F. Mandys</u>, J. Paloncyová, and J. Špeciánová | *RILSA*
+R. Jahoda, V. Beran, F. Červenka, S. Höhne, R. Kyzlinková, <u>F. Mandys</u>, J. Paloncyová, J. Špeciánová, and R. Maialeh | *RILSA*
 
 [**Household-specific energy expenditure and inflation in the Czech Republic**](https://www.rilsa.cz/2023/01/05/novy-policy-paper-rilsa-household-specific-energy-expenditure-and-inflation-in-the-czech-republic-energeticke-vydaje-domacnosti-a-inflace-v-ceske-republice/) &nbsp; (2022) <br>
 <u>F. Mandys</u> | *RILSA*
