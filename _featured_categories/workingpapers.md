@@ -7,7 +7,7 @@ no_groups: true
 
 # Working Papers
 
-**The Transforming Automobile Industry: Demand for Conventional and Clean Automobiles** <br>
+**Driving Change: Demand for Fossil-fuel Cars and Green Automobiles** <br>
 <u>F. Mandys</u> and S. Taneja 
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Quantifying the demand dynamics for alternative fuel vehicles versus conventional vehicles, while accounting for consumer heterogeneity, price endogeneity, and realistic substitution patterns. A large vehicle dataset is constructed and a discrete-choice random-coefficient model (BLP) is applied.
@@ -29,12 +29,6 @@ Analysing the effect of greater investment into information and communication te
 L. Benz, J. Block, H. Kraemer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u>
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Data from two EIF surveys is used to analyse and compare the underlying motives for private equity and venture capital firms to consider climate factors in the portfolio investment decisions.
-</details>
-
-**Gender Diversity in Small and Medium-sized Enterprises** <br>
-<u>F. Mandys</u> and A. Botsari
-<details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
-Research into the key drivers of gender diversity in European small and medium-sized enterprises. Various CEO and firm characteristics are analysed and compared between private equity and venture capital investors.
 </details>
 
 **EIF Business Angels Survey 2021/22: Investing in Environment and Climate** <br>
