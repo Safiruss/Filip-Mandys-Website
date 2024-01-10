@@ -19,7 +19,7 @@ S. Taneja and <u>F. Mandys</u>
 Examining the key drivers that motivate consumers to install solar photovoltaic and solar water heating panels in the United Kingdom. The Understanding Society dataset is employed, and the binomial and ordered logit regressions are applied.
 </details>
 
-**Digitalisation and Energy Efficiency** <br>
+**Digitalisation and Industrial Energy Demand** <br>
 <u>F. Mandys</u>, S. Taneja, and U. Unal
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Analysing the effect of greater investment into information and communication technologies on industrial energy consumption across European countries.
