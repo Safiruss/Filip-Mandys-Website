@@ -9,8 +9,8 @@ no_groups: true
 
 ## Books
 
-**Navigating Europe’s socio-economic crisis: The impact of inflation, the energy crisis, and the conflict in
-Ukraine on the Czech Republic and beyond** &nbsp; (2024) <br>
+[**Navigating Europe’s socio-economic crisis: The impact of inflation, the energy crisis, and the conflict in
+Ukraine on the Czech Republic and beyond**](https://doi.org/10.1007/978-3-031-44873-7) &nbsp; (2024) <br>
 <u>F. Mandys</u>, D. Adunts, B. Kurylo, R. Maialeh, and U. Unal | *Palgrave Macmillan*
 
 
