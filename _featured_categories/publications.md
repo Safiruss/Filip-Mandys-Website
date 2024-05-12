@@ -17,6 +17,9 @@ Ukraine on the Czech Republic and beyond**](https://doi.org/10.1007/978-3-031-44
 
 ## Research Papers
 
+[**Climate issues in portfolio investment decisions: A comparison of private equity and venture capital**](https://doi.org/10.1080/13691066.2024.2351218) &nbsp; (2024) <br>
+J. Block, L. Benz, H. Krämer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *Venture Capital*
+
 [**Search for an affordable clean car: Pricing of conventional and clean automobiles**](https://doi.org/10.1016/j.trd.2023.103738) &nbsp; (2023) <br>
 <u>F. Mandys</u> | *Transportation Research Part D: Transport and Environment*
 
@@ -33,23 +36,26 @@ S. Taneja and <u>F. Mandys</u> | *Energy Policy*
 S. Taneja and <u>F. Mandys</u> | *Renewable and Sustainable Energy Reviews*
 
 [**EIF private equity mid-market survey 2022: Market sentiment and impact of the current geopolitical & macroeconomic environment**](http://hdl.handle.net/10419/273572) &nbsp; (2022) <br>
-H. Kraemer-Eis, J. Block, A. Botsari, W. Diegel, F. Lang, D. Legnani, S. Lorenzen, <u>F. Mandys</u>, and I. Tzoumas | *EconStor*
+H. Krämer-Eis, J. Block, A. Botsari, W. Diegel, F. Lang, D. Legnani, S. Lorenzen, <u>F. Mandys</u>, and I. Tzoumas | *EconStor*
 
 [**EIF venture capital survey 2022: Market sentiment and impact of the current geopolitical & macroeconomic environment**](http://hdl.handle.net/10419/265477) &nbsp; (2022) <br>
-H. Kraemer-Eis, J. Block, A. Botsari, W. Diegel, F. Lang, D. Legnani, S. Lorenzen, <u>F. Mandys</u>, and I. Tzoumas | *EconStor*
+H. Krämer-Eis, J. Block, A. Botsari, W. Diegel, F. Lang, D. Legnani, S. Lorenzen, <u>F. Mandys</u>, and I. Tzoumas | *EconStor*
 
 [**EIF business angels survey 2021/22: Market sentiment**](http://hdl.handle.net/10419/263269) &nbsp; (2022) <br>
 A. Botsari, S. Kupres, F. Lang, D. Legnani, and <u>F. Mandys</u> | *EconStor*
 
 [**EIF private equity mid-market survey: Fund managers’ perception of EIF’s value added**](http://hdl.handle.net/10419/249252) &nbsp; (2021) <br>
-H. Kraemer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *EconStor*
+H. Krämer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *EconStor*
 
 [**Electric vehicles and consumer choices**](https://doi.org/10.1016/j.rser.2021.110874) &nbsp; (2021) <br>
 <u>F. Mandys</u> | *Renewable and Sustainable Energy Reviews*
 
 
 
-## Policy Papers
+## Policy Papers & Articles
+
+[**The impact of the European energy crisis: The case of Czech Republic**](https://www.bennettinstitute.cam.ac.uk/blog/european-energy-crisis/) &nbsp; (2024) <br>
+<u>F. Mandys</u> | *University of Cambridge*
 
 [**Impact of selected government measures on Czech households**](https://www.rilsa.cz/2023/06/vyhodnoceni-dopadu-konsolidacniho-balicku/) &nbsp; (2023) <br>
 R. Jahoda, V. Beran, F. Červenka, S. Höhne, R. Kyzlinková, <u>F. Mandys</u>, J. Paloncyová, J. Špeciánová, and R. Maialeh | *RILSA*

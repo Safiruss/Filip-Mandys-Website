@@ -25,12 +25,6 @@ Examining the key drivers that motivate consumers to install solar photovoltaic 
 Analysing the effect of greater investment into information and communication technologies on industrial energy consumption across European countries.
 </details>
 
-**Climate Issues in Portfolio Investment Decisions: A Comparison of Private Equity and Venture Capital** <br>
-L. Benz, J. Block, H. Kraemer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u>
-<details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
-Data from two EIF surveys is used to analyse and compare the underlying motives for private equity and venture capital firms to consider climate factors in the portfolio investment decisions.
-</details>
-
 **EIF Business Angels Survey 2021/22: Investing in Environment and Climate** <br>
 H. Kraemer-Eis, A. Botsari, F. Lang, D. Legnani, and <u>F. Mandys</u>
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
