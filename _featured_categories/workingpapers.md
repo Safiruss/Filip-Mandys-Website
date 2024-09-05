@@ -20,19 +20,19 @@ Examining the key drivers that motivate consumers to install solar photovoltaic 
 </details>
 
 **Digitalisation and Industrial Energy Demand** <br>
-<u>F. Mandys</u>, S. Taneja, and U. Unal
+<u>F. Mandys</u> and S. Taneja
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Analysing the effect of greater investment into information and communication technologies on industrial energy consumption across European countries.
 </details>
 
-**EIF Business Angels Survey 2021/22: Investing in Environment and Climate** <br>
-H. Kraemer-Eis, A. Botsari, F. Lang, D. Legnani, and <u>F. Mandys</u>
+**ICT and Productivity in the Transport Sector** <br>
+<u>F. Mandys</u> and D. Coyle
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
-Extensive analysis of the implementation of climate-related considerations in investment decisions, in the area of business angel investing. A large dataset of the UK and 27 EU countries based on a 2021/22 EIF online survey is constructed.
+Examining the impact that information and communication technologies have on productivity and energy productivity in the UK transportation and warehousing sectors. Comparisons across various countries are made.
 </details>
 
-**ESG Considerations in the Investment Decisions of Private Equity, Venture Capital, and Business Angels: Evidence from Three Pan-European Surveys** <br>
-H. Kraemer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u>
+**Energy Expenditure Among the Poor: Evidence from the Housing Benefits Claimants** <br>
+<u>F. Mandys</u>, J. Špeciánová, and R. Jahoda
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
-Detailed analysis of the integration of ESG considerations and impact investing in the areas of private equity mid-market, venture capital, and business angel investing. An extensive dataset of the UK and 27 EU countries based on three EIF online surveys of 2020 is constructed.
+Research into the drivers and patterns of energy expenditure among the poorest households in the Czech Republic. The energy types examined include electricity and gas, differentiation is made between house owners and renters, and a unique large-scale dataset from the housing benefits claimants is used.
 </details>

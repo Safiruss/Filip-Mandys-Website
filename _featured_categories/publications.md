@@ -54,6 +54,12 @@ H. Krämer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *EconStor*
 
 ## Policy Papers & Articles
 
+[**Competitiveness, productivity and innovation in the UK’s computing sector**](https://www.bennettinstitute.cam.ac.uk/publications/uk-computing-sector/) &nbsp; (2024) <br>
+<u>F. Mandys</u> and D. Coyle | *University of Cambridge*
+
+[**In search of a strategy: Prospects for the UK’s computing sector**](https://www.bennettinstitute.cam.ac.uk/blog/uk-computing-sector/) &nbsp; (2024) <br>
+<u>F. Mandys</u> and D. Coyle | *University of Cambridge*
+
 [**The impact of the European energy crisis: The case of Czech Republic**](https://www.bennettinstitute.cam.ac.uk/blog/european-energy-crisis/) &nbsp; (2024) <br>
 <u>F. Mandys</u> | *University of Cambridge*
 
