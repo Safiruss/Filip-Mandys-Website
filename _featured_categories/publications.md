@@ -7,14 +7,6 @@ no_groups: true
 
 # Publications
 
-## Books
-
-[**Navigating Europe’s socio-economic crisis: The impact of inflation, the energy crisis, and the conflict in
-Ukraine on the Czech Republic and beyond**](https://doi.org/10.1007/978-3-031-44873-7) &nbsp; (2024) <br>
-<u>F. Mandys</u>, D. Adunts, B. Kurylo, R. Maialeh, and U. Unal | *Palgrave Macmillan*
-
-
-
 ## Research Papers
 
 [**Climate issues in portfolio investment decisions: A comparison of private equity and venture capital**](https://doi.org/10.1080/13691066.2024.2351218) &nbsp; (2024) <br>
@@ -71,3 +63,11 @@ R. Jahoda, V. Beran, F. Červenka, S. Höhne, R. Kyzlinková, <u>F. Mandys</u>, 
 
 [**Household-specific energy inflation in the Czech Republic**](https://www.rilsa.cz/2022/09/denik-aktualne-cz-o-dopadech-energeticke-inflace-s-exkluzivnimi-informacemi-z-nove-analyzy-rilsa-nyni-zverejnujeme-policy-brief/) &nbsp; (2022) <br>
 <u>F. Mandys</u> | *RILSA*
+
+
+
+## Books
+
+[**Navigating Europe’s socio-economic crisis: The impact of inflation, the energy crisis, and the conflict in
+Ukraine on the Czech Republic and beyond**](https://doi.org/10.1007/978-3-031-44873-7) &nbsp; (2024) <br>
+<u>F. Mandys</u>, D. Adunts, B. Kurylo, R. Maialeh, and U. Unal | *Palgrave Macmillan*
