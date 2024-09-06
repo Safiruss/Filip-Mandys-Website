@@ -7,7 +7,7 @@ no_groups: true
 
 # Working Papers
 
-**Driving Change: Demand for Fossil-fuel Cars and Green Automobiles** <br>
+**Demand for Green and Fossil Fuel Automobiles** <br>
 <u>F. Mandys</u> and S. Taneja 
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Quantifying the demand dynamics for alternative fuel vehicles versus conventional vehicles, while accounting for consumer heterogeneity, price endogeneity, and realistic substitution patterns. A large vehicle dataset is constructed and a discrete-choice random-coefficient model (BLP) is applied.

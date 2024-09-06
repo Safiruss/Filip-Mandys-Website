@@ -12,7 +12,7 @@ Previously, I have worked as a *Research Consultant* in the [Research and Market
 
 I hold a PhD in Economics from the [University of Surrey](https://www.surrey.ac.uk/school-economics){:.heading.flip-title} and my thesis focused on the demand and pricing aspects of clean and conventional automobiles in the United Kingdom. I received my MSc in International Economics, Finance, and Development, and BSc in Economics and Finance from the University of Surrey.
 
-My research titled *Is Digitalisation Boosting the Decarbonisation of Industries?* won the [2024 Rybczynski Prize](https://spe.org.uk/latest/news/12328/rybcznski-prize-winners-announced-at-the-annual-summer-drinks){:.heading.flip-title}, awarded by [The Society of Professional Economists](https://spe.org.uk/){:.heading.flip-title}.
+My research "*Is Digitalisation Boosting the Decarbonisation of Industries?*" won the [2024 Rybczynski Prize](https://spe.org.uk/latest/news/12328/rybcznski-prize-winners-announced-at-the-annual-summer-drinks){:.heading.flip-title}, awarded by [The Society of Professional Economists](https://spe.org.uk/){:.heading.flip-title}.
 
 ### Research interests:
 - Energy & environmental economics

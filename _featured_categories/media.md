@@ -5,6 +5,12 @@ categories: [media]
 no_groups: true
 ---
 
+**September 2024**, &nbsp; *Research Institute for Labour and Social Affairs Press (in Czech)* <br> 
+[Filip Mandys analyzuje výzvy a příležitosti britského technologického sektoru v novém policy paperu](https://www.rilsa.cz/2024/09/dalsi-vyrazna-publikace-filipa-mandyse/)
+
+**September 2024**, &nbsp; *University of Kent Press* <br> 
+[Rybczynski Prize](https://drive.google.com/file/d/10_gkxC_2hJt1smN7BFn1-QFoQnC7ybkz/view)
+
 **July 2024**, &nbsp; *University of Cambridge Press* <br> 
 [Bennett Institute researcher wins prestigious economics prize](https://www.bennettinstitute.cam.ac.uk/blog/bennett-institute-researcher-wins-prestigious-economics-prize/)
 
