@@ -7,12 +7,6 @@ no_groups: true
 
 # Working Papers
 
-**Demand for Green and Fossil Fuel Automobiles** <br>
-<u>F. Mandys</u> and S. Taneja 
-<details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
-Quantifying the demand dynamics for alternative fuel vehicles versus conventional vehicles, while accounting for consumer heterogeneity, price endogeneity, and realistic substitution patterns. A large vehicle dataset is constructed and a discrete-choice random-coefficient model (BLP) is applied.
-</details>
-
 **Drivers of Solar Photovoltaic Panel Installation in the United Kingdom** <br>
 S. Taneja and <u>F. Mandys</u>
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>

@@ -5,6 +5,9 @@ categories: [conferences]
 no_groups: true
 ---
 
+[![](/assets/img/CSEP.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.imperial.ac.uk/sectoral-economic-performance/) **Centre for Sectoral Economic Performance Conference 2024**, &nbsp; *Imperial College London* <br> *Centre for Sectoral Economic Performance inaugural conference on UK economic growth* <br>
+10<sup>th</sup> October 2024 <br> <br>
+
 [![](/assets/img/ESCoE.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.escoe.ac.uk/) **ESCoE Conference on Economic Measurement 2024**, &nbsp; *Manchester* <br> *Presentation: Heterogeneity in the adoption of residential solar energy technologies ([Link](https://virtual.oxfordabstracts.com/#/event/5114/submission/45))* <br>
 15<sup>th</sup> - 17<sup>th</sup> May 2024 <br> <br>
 
