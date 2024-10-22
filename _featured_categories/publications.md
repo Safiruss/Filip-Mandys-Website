@@ -9,8 +9,8 @@ no_groups: true
 
 ## Research Papers
 
-[**Demand for green and fossil fuel automobiles**]() &nbsp; (2024) <br>
-<u>F. Mandys</u> and S. Taneja | *Transportation Part A: Policy and Practice* (forthcoming)
+[**Demand for green and fossil fuel automobiles**](https://doi.org/10.1016/j.tra.2024.104284) &nbsp; (2024) <br>
+<u>F. Mandys</u> and S. Taneja | *Transportation Part A: Policy and Practice*
 
 [**Climate issues in portfolio investment decisions: A comparison of private equity and venture capital**](https://doi.org/10.1080/13691066.2024.2351218) &nbsp; (2024) <br>
 J. Block, L. Benz, H. Krämer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *Venture Capital*
