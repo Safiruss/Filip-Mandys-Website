@@ -49,6 +49,9 @@ H. Krämer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *EconStor*
 
 ## Policy Papers & Articles
 
+[**The road to net zero: Why do UK consumers hesitate to buy electric cars?**](https://www.bennettinstitute.cam.ac.uk/blog/the-road-to-net-zero/) &nbsp; (2024) <br>
+<u>F. Mandys</u> and S. Taneja | *University of Cambridge*
+
 [**Competitiveness, productivity and innovation in the UK’s computing sector**](https://www.bennettinstitute.cam.ac.uk/publications/uk-computing-sector/) &nbsp; (2024) <br>
 <u>F. Mandys</u> and D. Coyle | *University of Cambridge*
 
