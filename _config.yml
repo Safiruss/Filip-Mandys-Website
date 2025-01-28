@@ -66,7 +66,7 @@ menu:
     url:               /education/
   - title:             AWARDS & PRIZES
     url:               /awardsprizes/
-  - title:             <a href="/assets/Dr. Filip Mandys - CV.pdf" download="">DOWNLOAD CV</a>
+  - title:             <a href="/assets/Dr. Filip Mandys - CV.pdf" target="_blank">CV</a>
 #    url:              /cv/
 
 # Add links to the footer.
