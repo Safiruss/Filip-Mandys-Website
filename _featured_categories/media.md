@@ -5,6 +5,9 @@ categories: [media]
 no_groups: true
 ---
 
+**March 2025**, &nbsp; *The Times* <br> 
+[Super-sized farms or rooftop panels? The new divisions over solar](https://www.thetimes.com/uk/environment/article/solar-panels-farmland-food-security-times-earth-wdb6dlhk8)
+
 **September 2024**, &nbsp; *Research Institute for Labour and Social Affairs Press (in Czech)* <br> 
 [Filip Mandys o situaci britského technologického sektoru](https://www.rilsa.cz/2024/09/dalsi-vyrazna-publikace-filipa-mandyse/)
 

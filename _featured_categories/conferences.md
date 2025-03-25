@@ -5,6 +5,10 @@ categories: [conferences]
 no_groups: true
 ---
 
+[![](/assets/img/Bennett.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettinstitute.cam.ac.uk/) **Bennett Institute for Public Policy Conference 2025**, &nbsp; *Cambridge* <br>
+*Presentation: Digitalisation and productivity: Innovations in tech contributing to transport sector productivity ([Link](https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2025/03/Bennett-Institute-for-Public-Policy-Annual-Conference-2025-programme.pdf))* <br>
+28<sup>th</sup> March 2025 <br> <br>
+
 [![](/assets/img/CSEP.jpeg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.imperial.ac.uk/sectoral-economic-performance/) **Centre for Sectoral Economic Performance Conference 2024**, &nbsp; *Imperial College London* <br> *Centre for Sectoral Economic Performance inaugural conference on UK economic growth* <br>
 10<sup>th</sup> October 2024 <br> <br>
 

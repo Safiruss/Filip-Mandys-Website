@@ -20,7 +20,6 @@ My research "*Is Digitalisation Boosting the Decarbonisation of Industries?*" wo
 - Applied econometrics
 - Microeconomics
 - Productivity
-- Corporate finance
 
 
 [documentation]: docs/README.md
