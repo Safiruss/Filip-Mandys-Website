@@ -6,7 +6,7 @@ no_groups: true
 ---
 
 [![](/assets/img/SPE.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://spe.org.uk/) **Rybczynski Prize**, &nbsp; *The Society of Professional Economists (SPE)* <br>
-Won the Rybczynski Prize alongside Dr Shivani Taneja, and was awarded the prize of £5 000 ([Link](https://spe.org.uk/latest/news/12328/rybcznski-prize-winners-announced-at-the-annual-summer-drinks)) <br>
+Won the Rybczynski Prize alongside Dr Shivani Taneja, and was awarded the prize of £5 000 ([Link](https://spe.org.uk/reading-room/ryb-essays/2023-24-rybczynski-prize-essay/)) <br>
 2024 <br> <br>
 
 [![](/assets/img/IAEE.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.iaee.org/) **Full Conference Scholarship**, &nbsp; *International Association for Energy Economics (IAEE)* <br>
