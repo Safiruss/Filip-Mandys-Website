@@ -5,6 +5,9 @@ categories: [conferences]
 no_groups: true
 ---
 
+[![](/assets/img/Bennett.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettinstitute.cam.ac.uk/) **The AI Value Chain: Research and Policy Priorities**, &nbsp; *Cambridge* <br> *Hosted by the Bennett Institute and the OECD to discuss policy-oriented research on the AI value chain* <br>
+6<sup>th</sup> - 7<sup>th</sup> May 2025 <br> <br>
+
 [![](/assets/img/Bennett.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettinstitute.cam.ac.uk/) **Bennett Institute for Public Policy Conference 2025**, &nbsp; *Cambridge* <br>
 *Presentation: Digitalisation and productivity: Innovations in tech contributing to transport sector productivity ([Link](https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2025/03/Bennett-Institute-for-Public-Policy-Annual-Conference-2025-programme.pdf))* <br>
 28<sup>th</sup> March 2025 <br> <br>
