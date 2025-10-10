@@ -9,11 +9,11 @@ no_groups: true
 
 ## Research Papers
 
+[**Climate issues in portfolio investment decisions: A comparison of private equity and venture capital**](https://doi.org/10.1080/13691066.2024.2351218) &nbsp; (2025) <br>
+J. Block, L. Benz, H. Krämer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *Venture Capital*
+
 [**Demand for green and fossil fuel automobiles**](https://doi.org/10.1016/j.tra.2024.104284) &nbsp; (2024) <br>
 <u>F. Mandys</u> and S. Taneja | *Transportation Research Part A: Policy and Practice*
-
-[**Climate issues in portfolio investment decisions: A comparison of private equity and venture capital**](https://doi.org/10.1080/13691066.2024.2351218) &nbsp; (2024) <br>
-J. Block, L. Benz, H. Krämer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *Venture Capital*
 
 [**Search for an affordable clean car: Pricing of conventional and clean automobiles**](https://doi.org/10.1016/j.trd.2023.103738) &nbsp; (2023) <br>
 <u>F. Mandys</u> | *Transportation Research Part D: Transport and Environment*
