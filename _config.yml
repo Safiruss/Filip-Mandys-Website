@@ -25,11 +25,11 @@ title:                 Filip Mandys
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Website of Dr. Filip Mandys - Research Associate at the University of Cambridge
+  Personal Website of Dr Filip Mandys - Research Fellow at University College London
 
 
 # A shorter description for the sidebar.
-tagline:               Research Associate <br> University of Cambridge
+tagline:               Research Fellow <br> University College London
 
 # A list of keywords for your blog
 keywords:              [Mandys, Filip, Research, Economics]
@@ -66,7 +66,7 @@ menu:
     url:               /education/
   - title:             AWARDS & PRIZES
     url:               /awardsprizes/
-  - title:             <a href="/assets/Dr. Filip Mandys - CV.pdf" target="_blank">CV</a>
+  - title:             <a href="/assets/Dr Filip Mandys - CV.pdf" target="_blank">CV</a>
 #    url:              /cv/
 
 # Add links to the footer.

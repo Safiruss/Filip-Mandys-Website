@@ -5,6 +5,9 @@ categories: [conferences]
 no_groups: true
 ---
 
+[![](/assets/img/AIEE.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.aiee.it/?lang=en) **9<sup>th<sup> AIEE Energy Symposium**, &nbsp; *Rome* <br> *Presentation: Digital transformation and industrial sustainability ([Link](https://www.aieesymposium.eu/wp-content/uploads/2026/02/MANDYS.pdf))* <br>
+20<sup>th</sup> - 22<sup>nd</sup> November 2025 <br> <br>
+
 [![](/assets/img/Bennett.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettinstitute.cam.ac.uk/) **The AI Value Chain: Research and Policy Priorities**, &nbsp; *Cambridge* <br> *Hosted by the Bennett Institute and the OECD to discuss policy-oriented research on the AI value chain* <br>
 6<sup>th</sup> - 7<sup>th</sup> May 2025 <br> <br>
 

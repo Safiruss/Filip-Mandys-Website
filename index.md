@@ -6,9 +6,9 @@ sitemap: true
 ---
 
 ## Short Biography
-I am currently working as a *Research Associate* at the [University of Cambridge](https://www.bennettinstitute.cam.ac.uk/){:.heading.flip-title} and as a *Senior Researcher* at the [Research Institute for Labour and Social Affairs](https://www.rilsa.cz/en/){:.heading.flip-title} (RILSA). My current research at the University of Cambridge examines the drivers of productivity in key sectors of the UK economy and productivity performance across countries. My research at RILSA focuses on energy economics, labour economics, and macroeconomic analysis of the Czech labour market, in cooperation with the Czech [Ministry of Labour](https://www.mpsv.cz/web/en){:.heading.flip-title}.
+I am currently working as a *Research Fellow* at [University College London](https://www.ucl.ac.uk/bartlett/environment-energy-resources){:.heading.flip-title}, an *Affiliated Researcher* at the [University of Cambridge](https://www.bennettschool.cam.ac.uk/){:.heading.flip-title}, and as a *Senior Researcher* at the [Research Institute for Labour and Social Affairs](https://www.rilsa.cz/en/){:.heading.flip-title} (RILSA). My current research at UCL focuses on the distributional impacts of the net-zero transition on electricity consumers in the UK. At the University of Cambridge, I examine the drivers of productivity in key sectors of the UK economy and the role of digitisation. My research at RILSA focuses on energy economics, labour economics, and macroeconomic analysis of the Czech labour market, in cooperation with the Czech [Ministry of Labour](https://www.mpsv.cz/web/en){:.heading.flip-title}.
 
-Previously, I have worked as a *Research Consultant* in the [Research and Market Analysis](https://www.eif.org/news_centre/research/index.htm){:.heading.flip-title} (RMA) division of the [European Investment Fund](https://www.eif.org/){:.heading.flip-title} (EIF) in Luxembourg. My research at EIF focused on the small and medium-sized enterprises (SMEs), particularly the private equity, venture capital, and business angel investors, green finance, ESG aspects, and the impact of the current geopolitical and energy crisis.
+Previously, I have worked as a *Research Associate* at the [University of Cambridge](https://www.bennettschool.cam.ac.uk/){:.heading.flip-title}, and a *Research Consultant* at the [European Investment Fund](https://www.eif.org/){:.heading.flip-title} in Luxembourg. My research focused on the small and medium-sized enterprises (SMEs), particularly the private equity, venture capital, and business angel investors, green finance, ESG aspects, and the impact of the geopolitical and energy crisis.
 
 I hold a PhD in Economics from the [University of Surrey](https://www.surrey.ac.uk/school-economics){:.heading.flip-title} and my thesis focused on the demand and pricing aspects of clean and conventional automobiles in the United Kingdom. I received my MSc in International Economics, Finance, and Development, and BSc in Economics and Finance from the University of Surrey.
 
@@ -18,7 +18,7 @@ My research "*Is Digitalisation Boosting the Decarbonisation of Industries?*" wo
 - Energy & environmental economics
 - Labour economics
 - Applied econometrics
-- Microeconomics
+- Digitisation
 - Productivity
 
 

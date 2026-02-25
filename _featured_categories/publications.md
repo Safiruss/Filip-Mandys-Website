@@ -12,6 +12,9 @@ no_groups: true
 [**Climate issues in portfolio investment decisions: A comparison of private equity and venture capital**](https://doi.org/10.1080/13691066.2024.2351218) &nbsp; (2025) <br>
 J. Block, L. Benz, H. Krämer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *Venture Capital*
 
+[**The impact of removing the cliff effect in child allowance in the Czech Republic**](https://doi.org/10.2478/danb-2025-0014) &nbsp; (2025) <br>
+V. Beran, R. Jahoda, J. Špeciánová, and <u>F. Mandys</u> | *Danube*
+
 [**Demand for green and fossil fuel automobiles**](https://doi.org/10.1016/j.tra.2024.104284) &nbsp; (2024) <br>
 <u>F. Mandys</u> and S. Taneja | *Transportation Research Part A: Policy and Practice*
 
@@ -48,6 +51,12 @@ H. Krämer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *EconStor*
 
 
 ## Policy Papers & Articles
+
+[**Digitising transport: Big gains for productivity and energy efficiency**](https://www.bennettschool.cam.ac.uk/blog/digitising-transport/) &nbsp; (2025) <br>
+<u>F. Mandys</u> and D. Coyle | *University of Cambridge*
+
+[**Digitisation and productivity in the transport sector**](https://www.bennettschool.cam.ac.uk/publications/digitisation-and-productivity-in-the-transport-sector/) &nbsp; (2025) <br>
+<u>F. Mandys</u> and D. Coyle | *University of Cambridge*
 
 [**The road to net zero: Why do UK consumers hesitate to buy electric cars?**](https://www.bennettinstitute.cam.ac.uk/blog/the-road-to-net-zero/) &nbsp; (2024) <br>
 <u>F. Mandys</u> and S. Taneja | *University of Cambridge*

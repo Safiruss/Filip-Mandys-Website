@@ -5,13 +5,29 @@ categories: [experience]
 no_groups: true
 ---
 
-[![](/assets/img/Cambridge.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettinstitute.cam.ac.uk/) **Research Associate** <br>
+[![](/assets/img/Cambridge.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettschool.cam.ac.uk/) **Affiliated Researcher** <br>
 *University of Cambridge* <br>
-2024 - Present <br> <br>
+2026 - Present <br> <br>
+
+[![](/assets/img/UCL.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.ucl.ac.uk/bartlett/environment-energy-resources) **Postgraduate Supervisor** <br>
+*University College London* <br>
+2025 - Present <br> <br>
+
+[![](/assets/img/UCL.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.ucl.ac.uk/bartlett/environment-energy-resources) **Research Fellow** <br>
+*University College London* <br>
+2025 - Present <br> <br>
 
 [![](/assets/img/RILSA.png){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.rilsa.cz/en/) **Senior Researcher** <br>
 *Research Institute for Labour and Social Affairs (RILSA)* <br>
 2022 - Present <br> <br>
+
+[![](/assets/img/Cambridge.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettschool.cam.ac.uk/) **Supervisor (teaching)** <br>
+*University of Cambridge* <br>
+2025 - 2026 <br> <br>
+
+[![](/assets/img/Cambridge.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettschool.cam.ac.uk/) **Research Associate** <br>
+*University of Cambridge* <br>
+2024 - 2026 <br> <br>
 
 [![](/assets/img/EIF.png){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.eif.org/index.htm) **Research Consultant** <br>
 *European Investment Fund (EIF)* <br>
