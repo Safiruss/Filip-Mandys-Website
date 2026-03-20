@@ -19,7 +19,7 @@ S. Taneja and <u>F. Mandys</u>
 Examining the key drivers that motivate consumers to install solar photovoltaic and solar thermal panels in the United Kingdom. The Understanding Society dataset is employed, and an adaptive Lasso and binomial logit model is applied.
 </details>
 
-**Energy expenditure of low-income households** <br>
+[**Energy expenditure of low-income households**](https://dx.doi.org/10.2139/ssrn.6349021) <br>
 <u>F. Mandys</u>, V. Beran, R. Jahoda, and J. Špeciánová
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Research into the drivers and patterns of energy expenditure among the poorest households in the Czech Republic. The energy types examined include electricity and gas, differentiation is made between house owners and renters, and a unique large-scale dataset from the housing benefits claimants is used.
