@@ -5,6 +5,9 @@ categories: [conferences]
 no_groups: true
 ---
 
+[![](/assets/img/Bennett.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettinstitute.cam.ac.uk/) **Bennett School of Public Policy Conference 2026**, &nbsp; *Cambridge* <br> *Bennett School conference on public policy, showcasing the latest ideas, evidence, and real-world practice from policymakers, commentators, and researchers.* <br>
+26<sup>th</sup> March 2026 <br> <br>
+
 [![](/assets/img/AIEE.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.aiee.it/?lang=en) **9<sup>th</sup> AIEE Energy Symposium**, &nbsp; *Rome* <br> *Presentation: Digital transformation and industrial sustainability ([Link](https://www.aieesymposium.eu/wp-content/uploads/2026/02/MANDYS.pdf))* <br>
 20<sup>th</sup> - 22<sup>nd</sup> November 2025 <br> <br>
 
