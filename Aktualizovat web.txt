@@ -4,7 +4,7 @@ cd C:/Users/Filip/Dokumenty/Web
    JEKYLL_ENV=production bundle exec jekyll build
 
 git add .
-git commit -m "my changes" 
+git commit -m "my changes"
    git remote add origin https://github.com/Safiruss/Filip-Mandys-Website.git
 git push -u origin master
 
