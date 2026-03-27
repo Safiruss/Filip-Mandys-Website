@@ -5,7 +5,7 @@ categories: [experience]
 no_groups: true
 ---
 
-[![](/assets/img/Cambridge.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettschool.cam.ac.uk/) **Affiliated Researcher** <br>
+[![](/assets/img/Cambridge.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettschool.cam.ac.uk/) **Research Affiliate** <br>
 *University of Cambridge* <br>
 2026 - Present <br> <br>
 

@@ -73,7 +73,7 @@ H. Krämer-Eis, A. Botsari, F. Lang, and <u>F. Mandys</u> | *EconStor*
 [**Impact of selected government measures on Czech households**](https://www.rilsa.cz/2023/06/vyhodnoceni-dopadu-konsolidacniho-balicku/) &nbsp; (2023) <br>
 R. Jahoda, V. Beran, F. Červenka, S. Höhne, R. Kyzlinková, <u>F. Mandys</u>, J. Paloncyová, J. Špeciánová, and R. Maialeh | *RILSA*
 
-[**Household-specific energy expenditure and inflation in the Czech Republic**](https://www.rilsa.cz/2023/01/05/novy-policy-paper-rilsa-household-specific-energy-expenditure-and-inflation-in-the-czech-republic-energeticke-vydaje-domacnosti-a-inflace-v-ceske-republice/) &nbsp; (2022) <br>
+[**Household-specific energy expenditure and inflation in the Czech Republic**](https://www.rilsa.cz/wp-content/uploads/2023/02/Policy-Paper-VUPSV-v.-v.-i.-c.4-2022.pdf) &nbsp; (2022) <br>
 <u>F. Mandys</u> | *RILSA*
 
 [**Household-specific energy inflation in the Czech Republic**](https://www.rilsa.cz/2022/09/denik-aktualne-cz-o-dopadech-energeticke-inflace-s-exkluzivnimi-informacemi-z-nove-analyzy-rilsa-nyni-zverejnujeme-policy-brief/) &nbsp; (2022) <br>
