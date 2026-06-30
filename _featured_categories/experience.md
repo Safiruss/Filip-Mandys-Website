@@ -19,7 +19,7 @@ no_groups: true
 
 [![](/assets/img/RILSA.png){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.rilsa.cz/en/) **Senior Researcher** <br>
 *Research Institute for Labour and Social Affairs (RILSA)* <br>
-2022 - Present <br> <br>
+2022 - 2026 <br> <br>
 
 [![](/assets/img/Cambridge.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettschool.cam.ac.uk/) **Supervisor (teaching)** <br>
 *University of Cambridge* <br>

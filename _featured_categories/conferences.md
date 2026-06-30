@@ -5,6 +5,12 @@ categories: [conferences]
 no_groups: true
 ---
 
+[![](/assets/img/FAERE.png){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://faere.fr/) **13<sup>th</sup> Annual Conference of the FAERE**, &nbsp; *Dijon* <br> *Presentation: Energy expenditure of low-income households ([Link](https://faere2026.sciencesconf.org/?lang=en))* <br>
+10<sup>th</sup> - 11<sup>th</sup> September 2026 <br> <br>
+
+[![](/assets/img/RES.png){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://res.org.uk/) **Royal Economic Society 2026 Annual Conference**, &nbsp; *Newcastle* <br> *Presentation: Digitisation and productivity in the transport sector ([Link](https://virtual.oxfordabstracts.com/event/76093/session/188893))* <br>
+6<sup>th</sup> - 8<sup>th</sup> July 2026 <br> <br>
+
 [![](/assets/img/Bennett.jpg){:height="88px" width="88px" style="float: left; margin-right: 1em;"}](https://www.bennettinstitute.cam.ac.uk/) **Bennett School of Public Policy Conference 2026**, &nbsp; *Cambridge* <br> *Bennett School conference on public policy, showcasing the latest ideas, evidence, and real-world practice from policymakers, commentators, and researchers.* <br>
 26<sup>th</sup> March 2026 <br> <br>
 

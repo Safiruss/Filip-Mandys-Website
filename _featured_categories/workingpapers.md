@@ -37,7 +37,7 @@ Y. Tzoumas and <u>F. Mandys</u>
 An investigation of whether financial innovation in climate risk management distorts incentives for decarbonization. Using a staggered difference-in-differences design and a panel dataset, we estimate the causal effect of insurance availability on firms’ decarbonization behaviour.
 </details>
 
-**Digitisation and industrial energy demand** <br>
+**Is digitalisation boosting the decarbonisation of industries?** <br>
 S. Taneja and <u>F. Mandys</u>
 <details style="margin-top: -15px; margin-bottom: 20px;"><summary><i>Short Abstract</i></summary>
 Analysing the effect of greater investment into information and communication technologies on industrial energy consumption across European countries.
